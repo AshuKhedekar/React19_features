@@ -1,0 +1,2 @@
+Actions:
+In React 19, we’re adding support for using async functions in transitions to handle pending states, errors, forms, and optimistic updates automatically.
